@@ -3,7 +3,7 @@ This repository contains two Python scripts. The first script focuses on analyzi
 
 # Finacial Analysis script overview
 
-This project utilizes the 'budget_data.csv' dataset in CSV format, containing information in two columns: Date and Profit/Losses. The data is collected consistently during the second week of each month, allowing for comparisons of profits and losses within a 30-day time period. The script, developed using Visual Studio Code, is designed to showcase the following calculations:
+This project uses the 'budget_data.csv' dataset in CSV format, containing information in two columns: Date and Profit/Losses. The data is collected consistently during the second week of each month, allowing for comparisons of profits and losses within a 30-day time period. The script, developed using Visual Studio Code, is designed to showcase the following calculations:
 
 •	Total number of data points included in the dataset
 
@@ -22,7 +22,7 @@ Additionally, the script presents the analysis within the terminal and exports a
  
 # Analysis of Election Poll Data
 
-This project utilizes a dataset in CSV format named 'election_data.csv', containing information in three columns: Ballot ID, County, and Candidate. Developed using Visual Studio Code, the built-in function is tailored to construct a dictionary encompassing candidate names, their corresponding percentages, and the total number of votes garnered. The 'counting' function necessitates three inputs: 1st input – The list of unique candidate names; 2nd input – the list of the votes with the candidate’s name; 3rd input – The total count of votes cast. In this example the script showcases the following calculations:
+This project uses a dataset in CSV format named 'election_data.csv', containing information in three columns: Ballot ID, County, and Candidate. Developed using Visual Studio Code, the built-in function is tailored to construct a dictionary encompassing candidate names, their corresponding percentages, and the total number of votes garnered. The 'counting' function necessitates three inputs: 1st input – The list of unique candidate names; 2nd input – the list of the votes with the candidate’s name; 3rd input – The total count of votes cast. In this example, the script showcases the following calculations:
 
 •	The total number of votes cast
 
